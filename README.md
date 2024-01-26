@@ -1,1 +1,1 @@
-Hello there! 👋 Welcome to my mini project portfolio website, designed with Tailwind CSS! Feel free to explore my projects at absolutely no cost! Simply click here to visit: Faiz's Mini Portfolio. Enjoy your visit! 🌟
+Hello there! 👋 Welcome to my mini project portfolio website, designed with Tailwind CSS! Feel free to explore my projects at absolutely no cost! Simply click here to visit: [Faiz's Mini Portfolio](https://faiz-mini-portofolio.vercel.app/). Enjoy your visit! 🌟
